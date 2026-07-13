@@ -5,4 +5,4 @@
 
 
 ### 2026 Week 26  
-- [7/12/26 2 Timothy 1:1-2:10 Erik Jackson ](docs/cc-eureka/)
+- [7/12/26 2 Timothy 1:1-2:10 Erik Jackson ](docs/cc-eureka/2026-07-12-2-Timothy-1.1-2.10-EJ.html)
